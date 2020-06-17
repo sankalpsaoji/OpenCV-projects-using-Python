@@ -4,3 +4,5 @@
  1] Face detection using OpenCV and cascade
  
  2] Vehicle detection using OpenCV and cascade
+ 
+ 3] Image resizing using OpenCV
